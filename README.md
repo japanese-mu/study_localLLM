@@ -1,7 +1,5 @@
 # study_localLLM
 
-# localLLM
-
 ローカルLLM運用のメモ置き場。
 
 ## 内容
